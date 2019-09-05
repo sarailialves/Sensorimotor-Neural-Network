@@ -1,4 +1,4 @@
-Neural networks optimization for Sensorimotor Coordination
+#Neural networks optimization for Sensorimotor Coordination
 
-Instructions:
+##Instructions:
 Run the script "run-sensorimotor.sh" and follow its instructions
